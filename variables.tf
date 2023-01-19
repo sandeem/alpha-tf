@@ -9,5 +9,5 @@ variable "full_cidr_block" {
 variable "image_id" {
   #default ="ami-0acb95b8e72d78387"   # Ubuntu + Apache + Check.html + Java + maven
   #default = "ami-0ff39345bd62c82a5"  # Plain Ubuntu
-  default = "ami-0fdc1e98b8461f937"   # AMI is from Packer Build Image Job
+  default = "ami-097a2df4ac947655f"   # AMI is from Packer Build Image Job
 }
